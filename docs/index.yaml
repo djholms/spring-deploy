@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  springboot-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-04-09T12:34:07.716547002+03:00"
+    description: Microservices on SpringBoot project
+    digest: 57c39c0ac7d4748544fac1237488164c55a37f776f73d9c91b933f64da898f74
+    maintainers:
+    - email: vitaliy.deyev@gmail.com
+      name: Vitaliy Deyev
+      url: https://devops.co.ua
+    name: springboot-chart
+    sources:
+    - https://github.com/djholms/GraduationWork
+    type: application
+    urls:
+    - https://djholms.github.io/spring-deploy/springboot-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-04-09T12:34:07.715816497+03:00"
